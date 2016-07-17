@@ -1,2 +1,3 @@
-# GK.Patterns.Samples
-Samples for C# design patterns.
+# Design Patterns Samples in C#
+
+Samples for GK course on C# design patterns.
