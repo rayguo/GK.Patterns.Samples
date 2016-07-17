@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverInterfaces", "ObserverInterfaces\ObserverInterfaces.csproj", "{A01052F8-8DA1-45F9-A495-48280C01B0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverReferences", "ObserverReferences\ObserverReferences.csproj", "{93C626F5-788F-4A3D-A393-88D85BA46462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDelegates", "ObserverDelegates\ObserverDelegates.csproj", "{485CDA2D-807E-47AF-BFC2-9131246E50F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverRx", "ObserverRx\ObserverRx.csproj", "{475F3B2A-45E4-4981-9752-4C9A9534DF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01052F8-8DA1-45F9-A495-48280C01B0FB}.Debug|x86.ActiveCfg = Debug|x86
+		{A01052F8-8DA1-45F9-A495-48280C01B0FB}.Debug|x86.Build.0 = Debug|x86
+		{A01052F8-8DA1-45F9-A495-48280C01B0FB}.Release|x86.ActiveCfg = Release|x86
+		{A01052F8-8DA1-45F9-A495-48280C01B0FB}.Release|x86.Build.0 = Release|x86
+		{93C626F5-788F-4A3D-A393-88D85BA46462}.Debug|x86.ActiveCfg = Debug|x86
+		{93C626F5-788F-4A3D-A393-88D85BA46462}.Debug|x86.Build.0 = Debug|x86
+		{93C626F5-788F-4A3D-A393-88D85BA46462}.Release|x86.ActiveCfg = Release|x86
+		{93C626F5-788F-4A3D-A393-88D85BA46462}.Release|x86.Build.0 = Release|x86
+		{485CDA2D-807E-47AF-BFC2-9131246E50F8}.Debug|x86.ActiveCfg = Debug|x86
+		{485CDA2D-807E-47AF-BFC2-9131246E50F8}.Debug|x86.Build.0 = Debug|x86
+		{485CDA2D-807E-47AF-BFC2-9131246E50F8}.Release|x86.ActiveCfg = Release|x86
+		{485CDA2D-807E-47AF-BFC2-9131246E50F8}.Release|x86.Build.0 = Release|x86
+		{475F3B2A-45E4-4981-9752-4C9A9534DF0A}.Debug|x86.ActiveCfg = Debug|x86
+		{475F3B2A-45E4-4981-9752-4C9A9534DF0A}.Debug|x86.Build.0 = Debug|x86
+		{475F3B2A-45E4-4981-9752-4C9A9534DF0A}.Release|x86.ActiveCfg = Release|x86
+		{475F3B2A-45E4-4981-9752-4C9A9534DF0A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

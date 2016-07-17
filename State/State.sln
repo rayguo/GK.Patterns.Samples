@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateEnum", "StateEnum\StateEnum.csproj", "{9D154F92-26ED-426F-9016-7C514DB591A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePatternLib", "StatePattern\StatePatternLib.csproj", "{D6A0DC20-3D59-419A-A998-39D4475116A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePatternClient", "StatePatternClient\StatePatternClient.csproj", "{579BE20C-CABA-4B85-9780-5743437D4EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D154F92-26ED-426F-9016-7C514DB591A3}.Debug|x86.ActiveCfg = Debug|x86
+		{9D154F92-26ED-426F-9016-7C514DB591A3}.Debug|x86.Build.0 = Debug|x86
+		{9D154F92-26ED-426F-9016-7C514DB591A3}.Release|x86.ActiveCfg = Release|x86
+		{9D154F92-26ED-426F-9016-7C514DB591A3}.Release|x86.Build.0 = Release|x86
+		{D6A0DC20-3D59-419A-A998-39D4475116A5}.Debug|x86.ActiveCfg = Debug|x86
+		{D6A0DC20-3D59-419A-A998-39D4475116A5}.Debug|x86.Build.0 = Debug|x86
+		{D6A0DC20-3D59-419A-A998-39D4475116A5}.Release|x86.ActiveCfg = Release|x86
+		{D6A0DC20-3D59-419A-A998-39D4475116A5}.Release|x86.Build.0 = Release|x86
+		{579BE20C-CABA-4B85-9780-5743437D4EA1}.Debug|x86.ActiveCfg = Debug|x86
+		{579BE20C-CABA-4B85-9780-5743437D4EA1}.Debug|x86.Build.0 = Debug|x86
+		{579BE20C-CABA-4B85-9780-5743437D4EA1}.Release|x86.ActiveCfg = Release|x86
+		{579BE20C-CABA-4B85-9780-5743437D4EA1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
